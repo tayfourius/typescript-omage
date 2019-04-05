@@ -1,3 +1,3 @@
 #TypeScript Omega 
 
-this project used to understand the learn the concepts of TypeScript 
+this project used to understand and learn the concepts of TypeScript 
